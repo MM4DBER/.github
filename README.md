@@ -1,4 +1,4 @@
-# MM4DEBR PROJECT LANDING PAGE - Cohort 1 2023
+# MM4DEBR PROJECT LANDING PAGE - 2023 Cohort
 
 <p align="center">
 
