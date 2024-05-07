@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="mm4dber.github.io/images/mm4dber_clear.png" width="300"/> <img src="mm4dber.github.io/images/NSF-Logo.png" width="300"/>
+<img src="images/mm4dber_clear.png" width="300"/> <img src="images/NSF-Logo.png" width="300"/>
 
 </p>
 
@@ -24,4 +24,4 @@
 
 - - -
 
-![](mm4dber.github.io/images/UCSB_Navy_mark.png)
+![](images/UCSB_Navy_mark.png)
